@@ -1,1 +1,3 @@
 # Personal-Banking-Application
+
+This is the first application made by me, i know i shouldn't call it as Application rather i should only call it as simple java program, but it's okay...
